@@ -1,2 +1,2 @@
 # EE5393HWs
-EE5393 HW repo
+EE5393 HW1 repo
